@@ -16,5 +16,3 @@ $ sudo npm -g install learnyoubash
 
 ---
 Daniel Paul Grech Pereira 2017
-[twitter](https://twitter.com/pereirawebdev)
-[medium](https://medium.com/pereirawebdev)

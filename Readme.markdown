@@ -13,4 +13,5 @@ $ sudo npm -g install learnyoubash
 3. [Positional arrays](https://github.com/pereiradaniel/learnyoubash/tree/master/positional_arrays)
 
 ---
-Daniel Paul Grech Pereira 2017
+
+*Daniel Paul Grech Pereira 2017*

@@ -1,5 +1,3 @@
-rn Bash  
-   
  ## ARRAYS (Exercise 4 of 11)  
    
   If you are already familiar with arrays in other programming languages,  

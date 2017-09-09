@@ -1,6 +1,8 @@
 # LEARNYOUBASH
 ---
 
+## INSTALL TUTORIAL
+
 Installation of tutorial:
 ```
 $ sudo npm -g install learnyoubash

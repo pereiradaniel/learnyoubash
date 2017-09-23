@@ -15,6 +15,7 @@ $ sudo npm -g install learnyoubash
 3. [Positional Parameters](https://github.com/pereiradaniel/learnyoubash/tree/master/positional_parameters)
 4. [Arrays](https://github.com/pereiradaniel/learnyoubash/tree/master/arrays)
 5. [Shell Expansions](https://github.com/pereiradaniel/learnyoubash/tree/master/shell_expansions)
+6. [Streams Pipes and Lists]()
 ---
 
 *Daniel Paul Grech Pereira 2017*

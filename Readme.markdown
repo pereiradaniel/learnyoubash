@@ -15,7 +15,8 @@ $ sudo npm -g install learnyoubash
 3. [Positional Parameters](https://github.com/pereiradaniel/learnyoubash/tree/master/positional_parameters)
 4. [Arrays](https://github.com/pereiradaniel/learnyoubash/tree/master/arrays)
 5. [Shell Expansions](https://github.com/pereiradaniel/learnyoubash/tree/master/shell_expansions)
-6. [Streams Pipes and Lists]()
+6. [Streams Pipes and Lists](https://github.com/pereiradaniel/learnyoubash/tree/master/streams_pipes_and_lists)
+7. [If conditional statement](https://github.com/pereiradaniel/learnyoubash/tree/master/if_conditional_statement)
 ---
 
 *Daniel Paul Grech Pereira 2017*

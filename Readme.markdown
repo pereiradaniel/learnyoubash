@@ -5,7 +5,7 @@
 
 Installation of tutorial:
 ```
-$ sudo npm -g install learnyoubash
+$ npm -g install learnyoubash
 ```
 
 ## SOLUTIONS
